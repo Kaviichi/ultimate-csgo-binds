@@ -1,9 +1,7 @@
 # Ultimate CS:GO Buys
  Counter Strike: Global Offensive buy menu hotkeys for the Elgato Stream Deck.
 
-![](example.png)
-
-![](https://i.imgur.com/wkkV0eb.mp4)
+![](example.PNG)
 
 ## How To Get Started
 1. Buy a Stream Deck.
